@@ -7,6 +7,8 @@ To connect with a database edit the fields in the method "createConnection" in t
 
 The database tables and data are in tables.sql and insert_data.sql
 
+Open file/web page "Login.html" to start the navigation
+
 
 
 Operations:
